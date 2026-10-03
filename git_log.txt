@@ -1,0 +1,5 @@
+commit 2b788c346b7a9176d80096cf31736dde29098bf0
+Author: Areen-ALakaleek <aaalakaleek22@cit.just.edu.jo>
+Date:   Sat Oct 3 13:59:10 2026 +0300
+
+    add hello.txt as the first file
