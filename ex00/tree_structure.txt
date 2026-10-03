@@ -1,0 +1,40 @@
+.:
+total 20
+drwxr-xr-x 5 userareen userareen 4096 Sep 30 19:15 .
+drwxr-x--- 7 userareen userareen 4096 Sep 30 19:26 ..
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:15 archives
+drwxr-xr-x 3 userareen userareen 4096 Sep 30 19:17 projects
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:15 tools
+
+./archives:
+total 8
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:15 .
+drwxr-xr-x 5 userareen userareen 4096 Sep 30 19:15 ..
+
+./projects:
+total 12
+drwxr-xr-x 3 userareen userareen 4096 Sep 30 19:17 .
+drwxr-xr-x 5 userareen userareen 4096 Sep 30 19:15 ..
+drwxr-xr-x 4 userareen userareen 4096 Sep 30 19:19 web
+
+./projects/web:
+total 16
+drwxr-xr-x 4 userareen userareen 4096 Sep 30 19:19 .
+drwxr-xr-x 3 userareen userareen 4096 Sep 30 19:17 ..
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:19 backend
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:17 frontend
+
+./projects/web/backend:
+total 8
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:19 .
+drwxr-xr-x 4 userareen userareen 4096 Sep 30 19:19 ..
+
+./projects/web/frontend:
+total 8
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:17 .
+drwxr-xr-x 4 userareen userareen 4096 Sep 30 19:19 ..
+
+./tools:
+total 8
+drwxr-xr-x 2 userareen userareen 4096 Sep 30 19:15 .
+drwxr-xr-x 5 userareen userareen 4096 Sep 30 19:15 ..
