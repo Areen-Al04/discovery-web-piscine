@@ -1,0 +1,28 @@
+=== 1. git status after editing ===
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	./
+
+nothing added to commit but untracked files present (use "git add" to track)
+=== 2. git add ===
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes to be committed:
+  (use "git restore --staged <file>..." to unstage)
+	new file:   README.md
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	git_workflow.txt
+
+=== 3. git commit ===
+[main 9e0d716] Add README.md
+ 1 file changed, 28 insertions(+)
+ create mode 100644 ex03/README.md
+=== 4. git push ===
+To https://github.com/Areen-Al04/discovery-web-piscine
+   51667c3..9e0d716  main -> main
